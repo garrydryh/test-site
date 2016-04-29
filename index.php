@@ -8,3 +8,4 @@
 
 echo "ПРИВЕТ";
 echo "ПОКА!!!";
+print OPSSS!;

@@ -9,3 +9,4 @@
 echo "ПРИВЕТ";
 echo "ПОКА!!!";
 print OPSSS!;
+echo "ШМЕККО!!!";
